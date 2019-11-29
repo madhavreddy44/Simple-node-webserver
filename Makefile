@@ -3,7 +3,7 @@ setup:
 	npm install http
 
 build:
-	echo "nothing to build, this Node, but thank you for thinking of me"
+	echo "nothing to build, please make sure something in it to build"
 
 run:
 	node index.js
